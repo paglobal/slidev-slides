@@ -1,0 +1,21 @@
+{
+  "name": "slidev-slides",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export",
+    "build:real-time-optimization": "slidev build ./real-time-optimization.md",
+    "dev:real-time-optimization": "slidev ./real-time-optimization.md",
+    "export:real-time-optimization": "slidev export ./real-time-optimization.md"
+  },
+  "dependencies": {
+    "@shoelace-style/shoelace": "^2.20.0",
+    "@slidev/cli": "^0.50.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "chart.js": "^4.4.8",
+    "vue": "^3.5.13"
+  }
+}

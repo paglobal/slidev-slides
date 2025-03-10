@@ -1,0 +1,9 @@
+.colored-emphasis.slidev-layout {
+  li em {
+    color: #5d8392;
+  }
+
+  a {
+    color: #5d8392;
+  }
+}
