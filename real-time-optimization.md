@@ -124,16 +124,11 @@ layout: statement
 - It is also similar in **_flexibility_** and **_accuracy_**
 
 ---
-
-# Solving The Cart-Pole Problem With FIS
-
----
 transition: slide-up
 ---
 
-# Demo Of Solution To The Cart-Pole Problem
+# Solving The Cart-Pole Problem With FIS
 
-<FISDemo/>
 ---
 layout: statement
 ---
